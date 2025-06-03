@@ -50,6 +50,6 @@ A significant portion of this project involved meticulous data cleaning and prep
 4.  **Explore Insights:** Interact with the filters on the dashboard to explore the restaurant data and gain insights.
 
 ## Dashboard Screenshot
-![Dashboard Screenshot](images/Zomato_Dashboard.PNG)
+![Dashboard Screenshot](images/Zomato_dashboard.PNG)
 
 --------------------------------------------------------------------------------------------------------------
