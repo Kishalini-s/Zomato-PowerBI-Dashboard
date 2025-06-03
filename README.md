@@ -18,7 +18,8 @@ This Power BI dashboard provides an in-depth analytical view of Zomato restauran
 * **Pandas (Conceptual):** The complex data cleaning and imputation logic (especially for handling missing values using group-wise medians and modes) was inspired by powerful operations typically performed in Python's Pandas library, meticulously translated and implemented within Power Query's M language.
 
 ## Data Source
-The dataset used for this analysis is sourced from Zomato, containing comprehensive information on a multitude of restaurants, including their names, types, online order and table booking availability, ratings, number of votes, locations, cuisines served, estimated cost for two, and service categories.
+The dataset used for this analysis is sourced from Zomato, containing comprehensive information on a multitude of restaurants, including their names, types, online order and table booking availability, ratings, number of votes, locations, cuisines served, estimated cost for two, and service categories.It can be downloaded from Kaggle:
+[Zomato Dataset on Kaggle](https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset)
 
 ## Data Transformation & Cleaning Highlights
 A significant portion of this project involved meticulous data cleaning and preparation within Power Query to ensure the highest quality and accuracy of data for analysis. Key transformation and imputation steps include:
